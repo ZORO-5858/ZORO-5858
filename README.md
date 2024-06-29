@@ -1,10 +1,7 @@
-## Hi there 👋
+#AboutMe
 
+why are you HERE theres nothing because i am not a programmer lmao 
 <!--
-**ZORO-5858/ZORO-5858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
